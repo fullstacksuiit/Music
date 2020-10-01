@@ -2,7 +2,7 @@
 <b>Tap Tap</b><br>
 A Music playing website <br>
 
-Click on Individual Colors to play music
+<em style="color: #cc0066"><strong>Click on Individual Colors to play music</strong></em>
 
 Build on: Windows 10 machine <br>
 Sounds used: https://gumroad.com/l/zICwM <br>
